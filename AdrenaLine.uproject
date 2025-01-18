@@ -12,14 +12,6 @@
 			]
 		},
 		{
-			"Name": "MetaHuman",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
@@ -48,6 +40,10 @@
 		},
 		{
 			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
 			"Enabled": true
 		}
 	]
