@@ -53,6 +53,10 @@
 		{
 			"Name": "GizmoEdMode",
 			"Enabled": true
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
 		}
 	]
 }
